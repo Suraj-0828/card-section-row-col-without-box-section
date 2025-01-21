@@ -1,0 +1,61 @@
+============ card row col with out box section ============
+
+
+
+ <div class="container text-center pb-70">
+            <h2 class="dark-blue fw-bold pb-50">Don’t Miss Out On This Incredible Offer!</h2>
+
+            <div class="row text-center mt-4">
+                <!-- First Column -->
+                <div class="col-md-3 pb-50">
+                    <img src="assets/images/about/dss1.png" class="ds" />
+                    <h5 class="mt-3"><strong>Up to $5,000 in Rebates</strong></h5>
+                    <p>We’re offering the largest rebate available in the industry. Don’t miss out on these massive savings.</p>
+                </div>
+
+                <!-- Second Column -->
+                <div class="col-md-3 pb-50">
+                    <img src="assets/images/about/dss2.png" class="ds" />
+                    <h5 class="mt-3"><strong>Limited Spots Available</strong></h5>
+                    <p>Funding is limited, and this opportunity won’t last long. Act fast to secure your rebate.</p>
+                </div>
+
+                <!-- Third Column -->
+                <div class="col-md-3 pb-50">
+                    <img src="assets/images/about/dss3.png" class="ds" />
+                    <h5 class="mt-3"><strong>Hassle-Free Energy Audits</strong></h5>
+                    <p>Concerned about energy audits? We handle it all for you, ensuring a smooth and easy process.</p>
+                </div>
+
+                <!-- Fourth Column -->
+                <div class="col-md-3 pb-50">
+                    <img src="assets/images/about/dss4.png" class="ds" />
+                    <h5 class="pt-3"><strong>$40,000 Upfront at <br>0%</strong></h5>
+                    <p>With a 100% success rate in getting approvals, you can get up to $40,000 to cover your home comfort upgrades.</p>
+                </div>
+            </div>
+
+            <div><a href="contact-us.php" class="fix-button-3">Check Your Eligibility &nbsp;<i class="fa fa-arrow-right arrow-90"></i></a></div>
+        </div>
+
+
+
+-----------------------------------------------------------------
+
+
+.bg-dark-blue {
+  background-color: #003E77;
+}
+
+
+.pd-br {
+  padding: 30px;
+  border-radius: 25px;
+}
+
+.pt-15{
+  padding-top: 15px;
+}
+
+
+============ card row col with out box section ============
